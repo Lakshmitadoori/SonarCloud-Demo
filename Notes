@@ -1,0 +1,4 @@
+-> Addons implement extra features for the storybook
+
+1. background (light/dark)
+2. controls(dynamically change props for components)
